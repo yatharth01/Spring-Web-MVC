@@ -8,6 +8,6 @@
 <h2>WELCOME TO SPRING : HOMEPAGE</h2>
 <hr>
 
-<a href="form" > any query?</a>
+<a href="student/showForm" > any query?</a>
 </body>
 </html>

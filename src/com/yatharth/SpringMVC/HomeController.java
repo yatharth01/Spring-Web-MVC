@@ -7,13 +7,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
+@RequestMapping("/hello")
 public class HomeController {
 	
-  @RequestMapping("/")
-   public String showMyPage() {
-	return "main-menu";
-
-   }
+  
   
    @RequestMapping("/form")
    public String submitForm() {
