@@ -9,5 +9,7 @@
 <hr>
 
 <a href="student/showForm" > any query?</a>
+<br><br>
+<a href="customer/form" > Customer Form</a>
 </body>
 </html>
