@@ -23,6 +23,13 @@ Language:
            Python<form:radiobutton path="favoriteLanguage" value="Python"/>
            Ruby<form:radiobutton path="favoriteLanguage" value="Ruby"/>
 <br>
+<br>
+Operating Systems:
+<br>
+Windows<form:checkbox path="OperatingSystems" value="Windows"/>
+Linux<form:checkbox path="OperatingSystems" value="Linux"/>
+MAC<form:checkbox path="OperatingSystems" value="MAC OS"/>
+<br><br>
 <input type="submit" value="submit">
 </form:form>
 </body>
