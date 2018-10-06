@@ -12,5 +12,7 @@ The Customer is ${customer.firstName } ${customer.lastName}
 Number of free passes ${customer.freepasses}
 <br>
 Postal Code: ${customer.postalCode}
+<br>
+Course Code: ${customer.courseCode}
 </body>
 </html>
